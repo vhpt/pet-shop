@@ -1,0 +1,23 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #007bff;
+  }
+  
+  .navbar-brand,
+  .nav-link {
+    margin: 0;
+    text-decoration: none;
+  }
+  
+  .nav-link {
+    color: #000;
+    text-decoration: none;
+    margin: 0 20px; /* Khoảng cách giữa các liên kết */
+  }
+  
+  .nav-link:hover {
+    color: #ffffff;
+  }

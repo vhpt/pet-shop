@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start; 
+}
+
+.col-md-3 {
+    margin-right: 200px;
+}
+
+.col-md-6 {
+    width: auto; 
+}
